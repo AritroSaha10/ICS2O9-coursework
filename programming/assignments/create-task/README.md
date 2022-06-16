@@ -9,4 +9,4 @@ I made a clone of Wordle, called Dictle.
 ![screenshot of project](screenshot.png)
 
 ## Copyright
-The task belong to the College Board. The assignment work was made by me (the author of this repo).
+The task belongs to the College Board. The assignment work was made by me (the author of this repo).
